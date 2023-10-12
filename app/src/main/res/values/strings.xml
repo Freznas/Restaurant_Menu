@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Restaurang meny</string>
+    <string name="Restaurant_name">Giuseppe trattoria</string>
+    <string name="förrätter">Förrätter</string>
+    <string name="huvudrätter">Huvudrätter</string>
+    <string name="efterrätter">Efterrätter</string>
+    <string name="starter1">Bruschetta med tomat och mozzarella</string>
+    <string name="starter2">Mini Pizza med prociutto</string>
+    <string name="starter3">Anti pasti med tomat apelsin och burrata</string>
+    <string name="main1">Pizza Margherita med mozzarella </string>
+    <string name="main2">Pasta la Genovese med högrev</string>
+    <string name="main3">Italiensk sallad med ruccola och torkad skinka</string>
+    <string name="dessert1">Pistache Gelato</string>
+    <string name="dessert2">Tiramisu</string>
+    <string name="dessert3">Cannoli med ricotta</string>
+    <string name="bon_appetit">buon appetito</string>
+    <string name="avslut">Stäng menyn</string>
+
+
+
+</resources>
